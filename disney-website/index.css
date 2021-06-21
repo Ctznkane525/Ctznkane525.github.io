@@ -1,0 +1,30 @@
+.header-image
+{
+    width: 100%;
+    max-width: 385px;
+    max-height: 150px;
+}
+.header-header{
+    width: 100%;
+    background-color: #20629D;
+    color: white;
+}
+h1
+{
+    line-height: 1.5;
+    
+}
+h2.time-until
+{
+    text-align: center;
+    display: block;
+    color: #20629D;
+}
+.dress-image
+{
+    max-height: 600px;
+    text-align: center;
+}
+.dress-image-container{
+    text-align: center;
+}
